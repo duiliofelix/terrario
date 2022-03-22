@@ -1,0 +1,3 @@
+class NotGitProjectException(Exception):
+    pass
+
